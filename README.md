@@ -10,9 +10,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- 🌮: Jaime Torres Sarmiento
+- 🌮: Juan de Dios Cerezo García
+- 🌮: Ismael Atli Peña
+- 🌮: Jose Miguel López Cebral
 
 
 Proyecto (código): 
