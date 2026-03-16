@@ -1,14 +1,11 @@
 
 # Proyecto Storytelling (template): 
-### my_storytelling
-Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
+### Onika Tacos
+Soy Onika Tacos, y esta es mi historia. El día en que quise tatuarme la palabra "fuc toi" en el culo, ocurrió algo inesperado. La tinta defectuosa provocó que entrara en mi organismo y me doto de capacidades físicas extremas. Yo me deidcaba a la venta de tacos en un puesto ambulante con la dueña checoslovaca, hasta que un día, la policía corrupta de mi corrupto país, la atacó sin miramiento y sin que se defendieran. Desde entonces tomé otra identidad con un nuevo nombre, Checoslovaquia (en honor a ella), y ahorá me dedico a enfrentarme al gobierno corrupto de furroméxico con mis nuevas habilidades, y con mi indumentaria apretada de mi antigua vida como actor porno.
 
 
 Autores:  
-<!---
-Incluir lista de personas del grupo 
-Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
--->
+<!--- Incluir lista de personas del grupo. Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)-->
 
 - 🌮: Jaime Torres Sarmiento
 - 🌮: Juan de Dios Cerezo García
