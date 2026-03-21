@@ -28,14 +28,8 @@ Tipo/Género:
 Onika Tacos, ex-actor porno, ve su vida cambiada tras tatuarse 'fac toi' con tinta defectuosa. Al introducirse la tinta en su cuerpo, Onika recibe la capacidad de transformarse en _Checoslovaquia_, símbolo justiciero de los taqueros mexicanos y combatiendo a los Furro - Estados Unidos (Corruptos) Mexicanos.
 
 ### Personaje
-
-
-![](img-nobody.png)
 ![Ilustración de Onika Tacos](onika_draw.jpg)
-
 **Nombre**: Onika Tacos (alias _Checoslovaquia_)
-
-
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
 * hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
 
@@ -81,7 +75,7 @@ _Yo y mis pato-bolas chinas derrocaremos al furro-estado mexicano_
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
 -->
 
-Febrero, 202X
+Marzo, 2026
 
 ![](https://github.com/mgea/CRIAv/blob/main/logo_criav75.png)
 
