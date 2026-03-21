@@ -45,7 +45,7 @@ Intentó mantener en secreto sus nuevas habilidades, pero el día que se encontr
 
 
 ### TagLine
-_Yo y mis pato-bolas chinas derrocaremos al furro-estado mexicano_
+>_"Yo y mis pato-bolas chinas derrocaremos al furro-estado mexicano"_
 
 ### Conflicto 
 
