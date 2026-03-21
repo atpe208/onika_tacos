@@ -53,7 +53,10 @@ _Yo y mis pato-bolas chinas derrocaremos al furro-estado mexicano_
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
-|<img src=>|<img src=
+|<img src=>|<img src="qr_lumi"|
+| | |
+|---|---|
+| <img src=> | <img src=qr_lumi.png alt="Pulsa para ir a la presentación interactiva de Onika!" height="300"> |
 
 - Banner/Teaser:  (enlace) 
 
