@@ -1,5 +1,5 @@
 
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling: 
 ### Onika Tacos
 Soy Onika Tacos, y esta es mi historia. El día en que quise tatuarme la palabra "fuc toi" en el culo, ocurrió algo inesperado. La tinta defectuosa provocó que entrara en mi organismo y me doto de capacidades físicas extremas. Yo me deidcaba a la venta de tacos en un puesto ambulante con la dueña checoslovaca, hasta que un día, la policía corrupta de mi corrupto país, la atacó sin miramiento y sin que pudiera defenderse. Desde entonces tomé otra identidad con un nuevo nombre, Checoslovaquia (en honor a ella), y ahora me dedico a enfrentarme al gobierno corrupto de furroméxico con mis nuevas habilidades, y con mi indumentaria apretada de mi antigua vida como actor porno.
 
@@ -14,7 +14,7 @@ Autores:
 
 
 Proyecto (código): 
-URL (link) del proyecto en Github: 
+URL (link) del proyecto en Github: https://github.com/atpe208/onika_tacos
 
 
 Tipo/Género:  
@@ -32,7 +32,7 @@ Tipo/Género:
 
 ![](img-nobody.png)
 
-Nombre: 
+**Nombre**: Onika Tacos (alias _Checoslovaquia_)
 
 
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
