@@ -25,7 +25,7 @@ Tipo/Género:
 
 
 ## Resumen
-
+Onika Tacos, ex-actor porno, ve su vida cambiada tras tatuarse 'fac toi' con tinta defectuosa. Al introducirse la tinta en su cuerpo, Onika recibe la capacidad de transformarse en _Checoslovaquia_, símbolo justiciero de los taqueros mexicanos y combatiendo a los Furro - Estados Unidos (Corruptos) Mexicanos.
 
 ### Personaje
 
