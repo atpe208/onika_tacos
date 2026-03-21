@@ -31,7 +31,7 @@ Onika Tacos, ex-actor porno, ve su vida cambiada tras tatuarse 'fac toi' con tin
 
 
 ![](img-nobody.png)
-![Ilustración de Onika Tacos]()
+![Ilustración de Onika Tacos](onika_draw.jpg)
 
 **Nombre**: Onika Tacos (alias _Checoslovaquia_)
 
@@ -49,7 +49,7 @@ Intentó mantener en secreto sus nuevas habilidades, pero el día que se encontr
 
 
 ### TagLine
-
+_Yo y mis pato-bolas chinas derrocaremos al furro-estado mexicano_
 
 ### Conflicto 
 
