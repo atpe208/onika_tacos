@@ -53,7 +53,7 @@ _Yo y mis pato-bolas chinas derrocaremos al furro-estado mexicano_
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo) 
-
+|<img src=>|<img src=
 
 - Banner/Teaser:  (enlace) 
 
