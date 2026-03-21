@@ -53,7 +53,7 @@ _Yo y mis pato-bolas chinas derrocaremos al furro-estado mexicano_
 ### Productos
 
 - Personaje: (img personaje y enlace a interactivo)
-<a href="https://app.lumi.education/run/6OCavk" title="Visita la historia introductoria interactiva de Onika Tacos!"> <img src=qr_lumi.png alt="Pulsa para ir a la presentación interactiva de Onika!" height="300"> </a>
+<br><a href="https://app.lumi.education/run/6OCavk" title="Visita la historia introductoria interactiva de Onika Tacos!"> <img src=qr_interac.png alt="Pulsa para ir a la presentación interactiva de Onika!" height="300"> </a>
 
 - Banner/Teaser:  (enlace) 
 
