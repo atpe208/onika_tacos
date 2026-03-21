@@ -12,7 +12,7 @@
 
 
 
-### Prácticas de la asignatura Diseño de interfaces de Usuario
+### Prácticas de la asignatura Creatividad e Innovación Audiovisual
 
 #### Comunidación Audiovisual, Facultad de Comunicación y Documentación. Universidad de Granada, 202X
 
