@@ -28,11 +28,12 @@ Tipo/Género:
 Onika Tacos, ex-actor porno, ve su vida cambiada tras tatuarse 'fac toi' con tinta defectuosa. Al introducirse la tinta en su cuerpo, Onika recibe la capacidad de transformarse en _Checoslovaquia_, símbolo justiciero de los taqueros mexicanos y combatiendo a los Furro - Estados Unidos (Corruptos) Mexicanos.
 
 ### Personaje
+**Nombre**: Onika Tacos (alias _Checoslovaquia_) 
 ![Ilustración de Onika Tacos](onika_draw.jpg)
 
-**Nombre**: Onika Tacos (alias _Checoslovaquia_)
-**Ficha de personaje:**
-![]
+<br>**Ficha de personaje:**
+![Ficha de Personaje de Onika Tacos](ficha_onika.png)
+Ficha completa en Excalidraw: [excalidraw_onika.excalidraw](excalidraw_onika.excalidraw)
 
 ### Historia
 Los Furros-Estados Unidos Mexicanos, es una nación en la que cada día que pasa, caen un poco más por el abismo de la locura. Comenzaron a precipitarse desde que el nuevo gobierno llego al poder. Es tan así, que ya son muchos los que lo llaman directamente Furro-Estados Unidos (Corruptos) Mexicanos. 
