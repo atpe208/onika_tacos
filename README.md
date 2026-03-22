@@ -1,7 +1,7 @@
 
 # Proyecto Storytelling: 
 ### Onika Tacos
-Soy Onika Tacos, y esta es mi historia. El día en que quise tatuarme la palabra "fuc toi" en el culo, ocurrió algo inesperado. La tinta defectuos, entró en mi organismo y me dotó de capacidades físicas extremas. Yo me dedicaba a la venta de tacos en un puesto ambulante, trabajando para la dueña de este establecimiento, Chesco, una mujer  checoslovaca. Hasta que un día, la policía corrupta de mi corrupto país, la atacó sin miramiento y sin que pudiera defenderse. Desde entonces, tomé otra identidad con un nuevo nombre, Checoslovaquia (en honor a ella), y ahora me dedico a enfrentarme al gobierno corrupto de los Furro-Estados Unidos Mexicanos, con mis nuevas habilidades, y con mi indumentaria apretada de mi antigua vida como actor porno.
+Soy Onika Tacos, y esta es mi historia. El día en que quise tatuarme la palabra "fuc toi" en el culo, ocurrió algo inesperado. La tinta defectuosa, entró en mi organismo y me dotó de capacidades físicas extremas. Yo me dedicaba a la venta de tacos en un puesto ambulante, trabajando para la dueña de este establecimiento, Chesco, una mujer checoslovaca. Hasta que un día, la policía corrupta de mi corrupto país, la atacó sin miramiento y sin que pudiera defenderse. Desde entonces, tomé otra identidad con un nuevo nombre, Checoslovaquia (en honor a ella), y ahora me dedico a enfrentarme al gobierno corrupto de los Furro-Estados Unidos Mexicanos, con mis nuevas habilidades, y con mi indumentaria apretada de mi antigua vida como actor porno.
 
 Autores:  
 <!--- Incluir lista de personas del grupo. Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)-->
