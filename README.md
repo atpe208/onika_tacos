@@ -56,7 +56,7 @@ Onika desea tener una vida tranquila, sin destacar y sólo haciendo lo que le gu
 
 
 ### Conclusiones/Valoración del equipo
-Como equipo hemos visto que con este trabajo, hemos evolucionado nuestra creatividad de formas insospechadas. Sin darnos cuenta, entre conversaciones sueltas con conceptos cada vez más alocados, florecía una historia estructurada y -aunque parezca que no por la premisa- seria. Al final hemos escrito y dibujado un personaje y una trama, que ojalá llegue a cobrar vida propia. Onika es nuestra criatura de Frankestein personal, quizás a alguno les asuste ver a esa alta anomalía, recubierta de plumas y de cuero, menos por las nalgas. Pero para nosotros es un bello animal que ha nacido gracias a las extremidades y las partes, que les hemos dado cada uno de nosotros.
+Como equipo hemos visto que con este trabajo, hemos evolucionado nuestra creatividad de formas insospechadas. Sin darnos cuenta, entre conversaciones sueltas con conceptos cada vez más alocados, florecía una historia estructurada y -aunque parezca que no por la premisa- seria. Al final hemos escrito y dibujado un personaje y una trama, que ojalá llegue a cobrar vida propia. Onika es nuestra criatura de Frankestein personal, quizás a alguno les asuste ver a esa alta anomalía, recubierta de plumas y de cuero (menos por las nalgas); pero para este equipo, es un bello animal que ha nacido gracias a las extremidades y las partes que les hemos dado cada uno de nosotros.
 
 
 
