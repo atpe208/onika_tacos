@@ -50,13 +50,16 @@ Intentó mantener en secreto sus nuevas capaciidades, pero el día que se encont
 Onika desea tener una vida tranquila, sin destacar y sólo haciendo lo que le guste. Pero la realidad de su entorno le atacó directa y personalmente, el día que la policía agredió, hasta casi matar, a su jefa. Onika no tiene ni idea de lo que es ser un héroe, pero hará todo lo que esté en sus manos para ser el mejor; aunque su traje sea la indumentaria de una estrella porno del sado. 
 
 ### Productos
+_Pulsa en las imágenes para acceder a los contenidos_
 
-- Personaje: (img personaje y enlace a interactivo) Pulsa abajo o escanea el QR para conocer más acerca de Onika! 👇 
+<br>- Personaje: (img personaje y enlace a interactivo) Pulsa abajo o escanea el QR para conocer más acerca de Onika! 👇 
 <br><a href="https://app.lumi.education/run/6OCavk" title="Visita la historia introductoria interactiva de Onika Tacos!"> <img src=qr_interac.png alt="Pulsa para ir a la presentación interactiva de Onika!" height="300"> </a>
-- Biografía interactiva para dar a conocer el backlore del personaje:
-  __"Cómo Onika se convirtió en Checoslovaquia"__
+<br>- Biografía interactiva para dar a conocer el backlore del personaje ➞ **"Cómo Onika se convirtió en Checoslovaquia"**
+    <br>
     <br><a href="https://arcweave.com/app/project/7rEYeRbEP3/play" title="Conoce la biografía de nuestro personaje decidiendo por él"> <img src=cover_arcweave.png alt="Pulsa para ir a la biografía interactiva de Onika!" height="250"> </a>
-
+<br>- Teaser interactivo del personaje ➞ **El Instagram personal de Onika**
+  <br>
+  <br><a href="https://www.figma.com/design/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=205-243&p=f&m=draw" title="Cotilla sobre Onika Tacos en su Instagram!"> <img src=cover_ig.png alt="Pulsa para ir al Instagram personal de Onika!" height="200-"> </a>
 ### Conclusiones/Valoración del equipo
 Como equipo hemos visto que con este trabajo, hemos evolucionado nuestra creatividad de formas insospechadas. Sin darnos cuenta, entre conversaciones sueltas con conceptos cada vez más alocados, florecía una historia estructurada y -aunque parezca que no por la premisa- seria. Al final hemos escrito y dibujado un personaje y una trama, que ojalá llegue a cobrar vida propia. Onika es nuestra criatura de Frankestein personal, quizás a alguno les asuste ver a esa alta anomalía, recubierta de plumas y de cuero (menos por las nalgas); pero para este equipo, es un bello animal que ha nacido gracias a las extremidades y las partes que les hemos dado cada uno de nosotros.
 
