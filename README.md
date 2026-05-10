@@ -60,6 +60,9 @@ _Pulsa en las imágenes para acceder a los contenidos_
 <br>- Teaser interactivo del personaje ➞ **El Instagram personal de Onika**
   <br>
   <br><a href="https://www.figma.com/design/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=205-243&p=f&m=draw" title="Cotilla sobre Onika Tacos en su Instagram!"> <img src=cover_ig.png alt="Pulsa para ir al Instagram personal de Onika!" height="200-"> </a>
+  <br>- Chat IA para interactuar con el personaje ➞ **Charla con Onika!**
+    <br>
+    <br><a href="https://character.ai/chat/01BU58RtQuy9NYSnrZpZtsWDwdfyV7G84pOMZFaOyBo" title="Charla con el mismísimo Onika en persona!"> <img src=cover_AIchat.png alt="Pulsa para chatear con Onika!" height="250"> </a>
 ### Conclusiones/Valoración del equipo
 Como equipo hemos visto que con este trabajo, hemos evolucionado nuestra creatividad de formas insospechadas. Sin darnos cuenta, entre conversaciones sueltas con conceptos cada vez más alocados, florecía una historia estructurada y -aunque parezca que no por la premisa- seria. Al final hemos escrito y dibujado un personaje y una trama, que ojalá llegue a cobrar vida propia. Onika es nuestra criatura de Frankestein personal, quizás a alguno les asuste ver a esa alta anomalía, recubierta de plumas y de cuero (menos por las nalgas); pero para este equipo, es un bello animal que ha nacido gracias a las extremidades y las partes que les hemos dado cada uno de nosotros.
 
