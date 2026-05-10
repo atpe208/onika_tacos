@@ -53,7 +53,9 @@ Onika desea tener una vida tranquila, sin destacar y sólo haciendo lo que le gu
 
 - Personaje: (img personaje y enlace a interactivo) Pulsa abajo o escanea el QR para conocer más acerca de Onika! 👇 
 <br><a href="https://app.lumi.education/run/6OCavk" title="Visita la historia introductoria interactiva de Onika Tacos!"> <img src=qr_interac.png alt="Pulsa para ir a la presentación interactiva de Onika!" height="300"> </a>
-
+- Biografía interactiva para dar a conocer el backlore del personaje:
+  __"Cómo Onika se convirtió en Checoslovaquia"__
+    <br><a href="https://arcweave.com/app/project/7rEYeRbEP3/play" title="Conoce la biografía de nuestro personaje decidiendo por él"> <img src=cover_arcweave.png alt="Pulsa para ir a la biografía interactiva de Onika!" height="250"> </a>
 
 ### Conclusiones/Valoración del equipo
 Como equipo hemos visto que con este trabajo, hemos evolucionado nuestra creatividad de formas insospechadas. Sin darnos cuenta, entre conversaciones sueltas con conceptos cada vez más alocados, florecía una historia estructurada y -aunque parezca que no por la premisa- seria. Al final hemos escrito y dibujado un personaje y una trama, que ojalá llegue a cobrar vida propia. Onika es nuestra criatura de Frankestein personal, quizás a alguno les asuste ver a esa alta anomalía, recubierta de plumas y de cuero (menos por las nalgas); pero para este equipo, es un bello animal que ha nacido gracias a las extremidades y las partes que les hemos dado cada uno de nosotros.
