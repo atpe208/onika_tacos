@@ -62,7 +62,7 @@ _Pulsa en las imágenes para acceder a los contenidos_
   <br><a href="https://www.figma.com/design/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=205-243&p=f&m=draw" title="Cotillea sobre Onika Tacos en su Instagram!"> <img src=cover_ig.png alt="Pulsa para ir al Instagram personal de Onika!" height="200-"> </a>
 <br>- Novela visual del lore del personaje para navegadores en *itch.io*➞ **Onika Tacos: Año Uno**
   <br>
-  <br><a href="https://atpe08.itch.io/onika-tacos-yearone" title="Juega a Onika Tacos: Año Uno en tu navegador!"> <img src=cover_ig.png alt="Pulsa para ir al Instagram personal de Onika!" height="200-"> </a>
+  <br><a href="https://atpe08.itch.io/onika-tacos-yearone" title="Juega a Onika Tacos: Año Uno en tu navegador!"> <img src=cover_juego.png alt="Pulsa para jugar a Onika Tacos: Año Uno en tu navegador!" height="200-"> </a>
   <br>- Chat IA para interactuar con el personaje ➞ **Charla con Onika!**
     <br>
     <br><a href="https://character.ai/chat/01BU58RtQuy9NYSnrZpZtsWDwdfyV7G84pOMZFaOyBo" title="Charla con el mismísimo Onika en persona!"> <img src=cover_AIchat.png alt="Pulsa para chatear con Onika!" height="250"> </a>
